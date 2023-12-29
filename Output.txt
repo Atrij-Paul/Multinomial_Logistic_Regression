@@ -1,0 +1,31 @@
+Enter the key value pairs
+Enter the Independent variable X1
+Enter values (comma-seperated) : 2,3,5,7,1,8,4,5,6,7
+Enter the constant coefficient for the independent variable 
+Enter the constant as C 
+Enter the Constant Key C
+Enter the value 0.1
+Enter "YES" or "yes" if you want to continue choosing or enter "NO" or "no" if you want to discontinue Yes
+The number of data points must be equal to the previous entry
+Enter the key value pairs
+Enter the Independent variable X2
+Enter values (comma-seperated) : 1,5,3,8,2,7,5,9,4,2
+Enter the constant coefficient for the independent variable 
+Enter the constant as C 
+Enter the Constant Key C
+Enter the value 1
+Enter "YES" or "yes" if you want to continue choosing or enter "NO" or "no" if you want to discontinue No
+Enter the variable coefficients
+Enter the Variable Coefficient Key as B B
+Enter the value 0.5
+Enter the variable coefficients
+Enter the Variable Coefficient Key as B B
+Enter the value 0.5
+Enter the constant coefficient for Sero
+Enter the constant coefficient Key as C C
+Enter the value 0
+{'p1': array([0.27311214, 0.28767245, 0.28767245, 0.28900869, 0.27311214,
+       0.28900869, 0.2882131 , 0.28898158, 0.28854201, 0.2882131 ]), 'p2': array([0.67174747, 0.70756005, 0.70756005, 0.71084667, 0.67174747,
+       0.71084667, 0.70888983, 0.71077998, 0.70969882, 0.70888983]), 'p3': array([0.05514039, 0.0047675 , 0.0047675 , 0.00014463, 0.05514039,
+       0.00014463, 0.00289707, 0.00023844, 0.00175917, 0.00289707])}
+Operation time is 0.0010008811950683594
